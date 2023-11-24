@@ -1,10 +1,10 @@
 # app--dev
 My first Respository
 SAMS
-Christian Chua
-Rei Bryant Zamora
-Jeffrey Portea
-Jupiter Moral
-Jun Gabriel Espadilla
-Guesler Ibanez
-Jeffrey Flores
+Chua Christian
+Zamora Rei
+Portea Jeffrey
+Moral Jupiter
+Espadilla Jun Gabriel
+Ibanez Guesler
+Flores Jeffrey
